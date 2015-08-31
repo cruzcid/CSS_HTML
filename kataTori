@@ -1,0 +1,6 @@
+public class Beign{
+  public Beign(){}
+  public void message(){
+    System.out.print("Exist has nothing to do with beign");
+  }
+}
